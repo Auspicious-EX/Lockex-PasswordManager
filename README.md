@@ -1,5 +1,4 @@
-Here's a comprehensive `README.md` for your GitHub repository that covers the important aspects of your "Lockex" project:
-
+[![MasterHead](https://github.com/Auspicious-EX/Lockex-PasswordManager/blob/main/src/assets/Demo-Picture/BANNER.gif?raw=true)](https://github.com/Auspicious-EX/DailyWebDev)
 
 # Lockex - Password Manager App
 
@@ -10,6 +9,16 @@ Lockex is a user-friendly and responsive password manager app designed to secure
 - **Store and Manage Credentials**: Save and manage web URLs, usernames, and passwords securely.
 - **User-Friendly Interface**: Designed with a clean and intuitive user interface using React and Tailwind.
 - **Responsive Design**: Fully responsive to ensure a great user experience on all devices.
+
+## Screenshots
+
+Here are some screenshots of the Lockex app showcasing its user interface and features:
+
+
+   ![Homepage](https://github.com/Auspicious-EX/Lockex-PasswordManager/blob/main/src/assets/Demo-Picture/1.png?raw=true)
+
+   ![Credential Management](https://github.com/Auspicious-EX/Lockex-PasswordManager/blob/main/src/assets/Demo-Picture/2.png?raw=true)
+
 
 ## Tech Stack
 
@@ -32,7 +41,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lockex.git
+   git clone https://github.com/Auspicious-EX/Lockex-PasswordManager.git
    cd lockex
    ```
 
